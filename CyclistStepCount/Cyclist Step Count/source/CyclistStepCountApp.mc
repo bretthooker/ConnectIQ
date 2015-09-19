@@ -3,6 +3,7 @@ using Toybox.Application as App;
 // Brett Hooker
 // Step Counter Watch Face for Cyclists
 // Attain Jerseys By Completing Step Count Targets
+// Second Mac Added, Learning Curve Begins
 
 class CyclistStepCountApp extends App.AppBase {
 

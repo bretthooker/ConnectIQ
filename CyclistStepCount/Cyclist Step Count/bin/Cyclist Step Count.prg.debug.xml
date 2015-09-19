@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountApp.mc" lineNum="19" pc="268435464" symbol="getInitialView"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="10" pc="268435505" symbol="onLayout"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="22" pc="268435548" symbol="onUpdate"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="23" pc="268435565" symbol="onUpdate"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="24" pc="268435639" symbol="onUpdate"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="25" pc="268435663" symbol="onUpdate"/>
-<entry filename="/Users/bretthooker/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="28" pc="268435677" symbol="onUpdate"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountApp.mc" lineNum="20" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="10" pc="268435505" symbol="onLayout"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="22" pc="268435548" symbol="onUpdate"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="23" pc="268435565" symbol="onUpdate"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="24" pc="268435639" symbol="onUpdate"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="25" pc="268435663" symbol="onUpdate"/>
+<entry filename="/Users/BrettH/git/ConnectIQ/CyclistStepCount/Cyclist Step Count/source/CyclistStepCountView.mc" lineNum="28" pc="268435677" symbol="onUpdate"/>
 <entry filename="Rez" lineNum="5" pc="268436023" symbol="&lt;init&gt;"/>
 <entry filename="Rez" lineNum="10" pc="268436010" symbol="&lt;init&gt;"/>
 <entry filename="Rez" lineNum="19" pc="268435710" symbol="WatchFace"/>

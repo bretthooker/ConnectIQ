@@ -1,5 +1,9 @@
 using Toybox.Application as App;
 
+// Brett Hooker
+// Step Counter Watch Face for Cyclists
+// Attain Jerseys By Completing Step Count Targets
+
 class CyclistStepCountApp extends App.AppBase {
 
     //! onStart() is called on application start up

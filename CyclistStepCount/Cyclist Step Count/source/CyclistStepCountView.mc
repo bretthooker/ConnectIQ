@@ -20,7 +20,7 @@ class CyclistStepCountView extends Ui.WatchFace {
     function onUpdate(dc) {
         // Get and show the current time
         var clockTime = Sys.getClockTime();
-        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%.2d")]);
+        var timeString = "Hi Lexie!\n" + Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%.2d")]);
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
 
